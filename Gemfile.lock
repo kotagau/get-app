@@ -103,6 +103,7 @@ GEM
     debug (1.10.0)
       irb (~> 1.10)
       reline (>= 0.3.8)
+    device (0.0.0)
     drb (2.2.1)
     erubi (1.13.1)
     globalid (1.2.1)
@@ -249,6 +250,7 @@ DEPENDENCIES
   bootsnap
   capybara
   debug
+  device
   importmap-rails
   jbuilder
   mysql2 (~> 0.5)
