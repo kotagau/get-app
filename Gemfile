@@ -68,5 +68,5 @@ group :test do
 end
 
 
-
-gem'device'
+gem 'pry-rails'
+gem 'devise'
